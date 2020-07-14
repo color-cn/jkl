@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-aop-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-aspects-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-beans-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-context-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-context-indexer-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-context-support-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-expression-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-instrument-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-jcl-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-jdbc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-jms-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-messaging-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-orm-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-oxm-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-test-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-tx-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-web-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-webflux-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-webmvc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/下载/javalib/spring-boot/spring-websocket-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
